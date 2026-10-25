@@ -1,0 +1,6 @@
+{
+  "name": "ip-status-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTTP status monitoring service"
+}
